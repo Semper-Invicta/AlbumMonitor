@@ -6,6 +6,7 @@ import datetime
 
 while 1:
     f = open('log.txt','a')
+    fr = open('recent.txt','w')
     url = 'https://mall.video.qq.com/x/bu/rocketgirl101/album?ptag=from:weco;hd:293' 
     req = urllib.request.urlopen(url)
     html = req.read()
@@ -16,5 +17,7 @@ while 1:
     result = score[0]+'\n'+time_stamp.strftime('%Y.%m.%d-%H:%M:%S')+'\n'
     print(result)
     f.write(result)
+    fr.write(result)
     f.close()
+    fr.close()
     time.sleep(10)
