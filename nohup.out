@@ -3150,3 +3150,8 @@ Traceback (most recent call last):
   File "creep.py", line 17, in <module>
     result = score[0]+'\n'+time_stamp.strftime('%Y.%m.%d-%H:%M:%S')+'\n'
 IndexError: list index out of range
+[master 52c5a43] push
+ 3 files changed, 620 insertions(+), 2 deletions(-)
+To git@github.com:Semper-Invicta/AlbumMonitor.git
+   6eb94a7..52c5a43  master -> master
+Branch master set up to track remote branch master from origin.
