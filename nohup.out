@@ -10621,3 +10621,64 @@ Branch master set up to track remote branch master from origin.
 To git@github.com:Semper-Invicta/AlbumMonitor.git
    3118556..f56b4bb  master -> master
 Branch master set up to track remote branch master from origin.
+[master 9e5b43d] push
+ 3 files changed, 16 insertions(+), 1 deletion(-)
+To git@github.com:Semper-Invicta/AlbumMonitor.git
+   f56b4bb..9e5b43d  master -> master
+Branch master set up to track remote branch master from origin.
+
+11523
+2018.11.13-02:55:44
+
+11523
+2018.11.13-02:55:55
+
+11523
+2018.11.13-02:56:06
+
+11523
+2018.11.13-02:56:18
+
+11523
+2018.11.13-02:56:30
+
+11523
+2018.11.13-02:56:41
+
+11523
+2018.11.13-02:56:54
+
+11523
+2018.11.13-02:57:05
+
+11523
+2018.11.13-02:57:17
+
+11523
+2018.11.13-02:57:29
+
+11523
+2018.11.13-02:57:41
+
+11523
+2018.11.13-02:57:52
+
+11523
+2018.11.13-02:58:03
+
+11523
+2018.11.13-02:58:15
+
+11523
+2018.11.13-02:58:26
+
+11523
+2018.11.13-02:58:38
+
+11523
+2018.11.13-02:58:49
+
+Traceback (most recent call last):
+  File "creep.py", line 17, in <module>
+    result = score[0]+'\n'+time_stamp.strftime('%Y.%m.%d-%H:%M:%S')+'\n'
+IndexError: list index out of range
