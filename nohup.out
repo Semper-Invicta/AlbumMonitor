@@ -8402,3 +8402,8 @@ Branch master set up to track remote branch master from origin.
 To git@github.com:Semper-Invicta/AlbumMonitor.git
    f08d24a..776c4c1  master -> master
 Branch master set up to track remote branch master from origin.
+[master ec6fc9a] push
+ 3 files changed, 19 insertions(+)
+To git@github.com:Semper-Invicta/AlbumMonitor.git
+   776c4c1..ec6fc9a  master -> master
+Branch master set up to track remote branch master from origin.
