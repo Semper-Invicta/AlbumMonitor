@@ -448,3 +448,8 @@ Traceback (most recent call last):
   File "/usr/local/python3/lib/python3.7/urllib/request.py", line 1319, in do_open
     raise URLError(err)
 urllib.error.URLError: <urlopen error [Errno 110] Connection timed out>
+[master 40bf4b5] push
+ 1 file changed, 396 insertions(+)
+To git@github.com:Semper-Invicta/AlbumMonitor.git
+   2d87ea3..40bf4b5  master -> master
+Branch master set up to track remote branch master from origin.
