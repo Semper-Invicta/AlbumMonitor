@@ -12432,3 +12432,14 @@ Branch master set up to track remote branch master from origin.
 To git@github.com:Semper-Invicta/AlbumMonitor.git
    63bfe05..1611f22  master -> master
 Branch master set up to track remote branch master from origin.
+[master 37a11d6] push
+ 1 file changed, 5 insertions(+)
+To git@github.com:Semper-Invicta/AlbumMonitor.git
+   1611f22..37a11d6  master -> master
+Branch master set up to track remote branch master from origin.
+./city/city.py: line 1: import: command not found
+./city/city.py: line 2: import: command not found
+./city/city.py: line 3: import: command not found
+./city/city.py: line 4: import: command not found
+./city/city.py: line 7: syntax error near unexpected token `('
+./city/city.py: line 7: `    f = open('log.txt','a')'
