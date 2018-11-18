@@ -19,3 +19,11 @@ Branch master set up to track remote branch master from origin.
 To git@github.com:Semper-Invicta/AlbumMonitor.git
    af238bd..02aaf05  master -> master
 Branch master set up to track remote branch master from origin.
+# On branch master
+nothing to commit, working directory clean
+Everything up-to-date
+Branch master set up to track remote branch master from origin.
+Traceback (most recent call last):
+  File "./city/city.py", line 7, in <module>
+    f = open('/workspaace/city/clog.txt','a')
+FileNotFoundError: [Errno 2] No such file or directory: '/workspaace/city/clog.txt'
