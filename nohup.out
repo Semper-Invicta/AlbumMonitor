@@ -12443,3 +12443,16 @@ Branch master set up to track remote branch master from origin.
 ./city/city.py: line 4: import: command not found
 ./city/city.py: line 7: syntax error near unexpected token `('
 ./city/city.py: line 7: `    f = open('log.txt','a')'
+[master 95e9360] push
+ 6 files changed, 258 insertions(+), 1 deletion(-)
+ create mode 100755 city/city.py
+ create mode 100644 city/plot.png
+ create mode 100644 city/plot.py
+To git@github.com:Semper-Invicta/AlbumMonitor.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'git@github.com:Semper-Invicta/AlbumMonitor.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first merge the remote changes (e.g.,
+hint: 'git pull') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
