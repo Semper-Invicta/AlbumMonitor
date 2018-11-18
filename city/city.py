@@ -4,7 +4,7 @@ import time
 import datetime
 
 while 1:
-    f = open('/workspaace/city/clog.txt','a')
+    f = open('/workspace/city/clog.txt','a')
     url = 'http://panshi.qq.com/v2/vote/23212312?source=1&_=1542523645175&callback=Zepto1542523645036' 
     req = urllib.request.urlopen(url)
     html = req.read()
