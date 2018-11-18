@@ -27,3 +27,8 @@ Traceback (most recent call last):
   File "./city/city.py", line 7, in <module>
     f = open('/workspaace/city/clog.txt','a')
 FileNotFoundError: [Errno 2] No such file or directory: '/workspaace/city/clog.txt'
+[master ae714de] push
+ 1 file changed, 8 insertions(+)
+To git@github.com:Semper-Invicta/AlbumMonitor.git
+   59bd35a..ae714de  master -> master
+Branch master set up to track remote branch master from origin.
